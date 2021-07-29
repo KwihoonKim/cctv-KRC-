@@ -1,8 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Mar 12 23:32:42 2021
+Created on Thu Jul 29 2021
+Created by Kwihoon Kim
 
-@author: USESR
+<CCTV research project for KRC>
+ver.1
 """
 
 
